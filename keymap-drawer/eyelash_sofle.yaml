@@ -66,7 +66,7 @@ layers:
   - '&mkp MB4'
   - '&mkp MB5'
   LAYER 1:
-  - {t: '`', s: '~'}
+  - '@'
   - F1
   - F2
   - F3
@@ -81,9 +81,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '`', s: '~'}
-  - {t: '$$mdi:transfer$$', type: trans}
   - RGB HUI
   - RGB SAI
+  - RGB BRI
   - RGB SPI
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - PG UP
@@ -94,7 +94,7 @@ layers:
   - {t: '=', s: +}
   - {t: '$$mdi:transfer$$', type: trans}
   - '~'
-  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB HUD
   - RGB SAD
   - RGB BRD
   - RGB SPD
@@ -110,7 +110,7 @@ layers:
   - RGB ON
   - RGB EFF
   - RGB EFR
-  - RGB SPI
+  - RGB EFF
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - RGB BRI
   - RGB BRD

@@ -3,3 +3,8 @@ zmk/
 modules/
 tools/
 .west/
+.DS_Store
+firmware.zip
+firmware/eyelash_sofle_left nice_oled-eyelash_nano-zmk.uf2
+firmware/eyelash_sofle_right nice_oled-eyelash_nano-zmk.uf2
+firmware/settings_reset-eyelash_nano-zmk.uf2

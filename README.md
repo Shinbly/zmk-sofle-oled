@@ -1,4 +1,8 @@
 # Sofle
+https://nickcoutsos.github.io/keymap-editor/
+
+![Sofle键位图](keymap-drawer/eyelash_sofle.svg)
+
 
 - [中文](README.md)
 - [English](README_EN.md)
@@ -25,5 +29,4 @@
 
 ## Sofle键位图
 
-![Sofle键位图](keymap-drawer/eyelash_sofle.svg)
 
